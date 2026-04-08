@@ -10,4 +10,3 @@
 <p>This is a sample paragraph.</p>
 </body>
 </html>
-index.md
